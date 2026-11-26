@@ -37,11 +37,23 @@ This repository demonstrates applied techniques across predictive modelling, rel
 * **Dataset:** UK Department for Transport (DfT) — *Road Safety Data - Casualties - 2024*
 * **Licence:** [UK Open Government Licence (OGL) v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
 
-## Repository Structure
 
-```text
-uk-road-casualty-analytics/
-├── README.md
-├── src/                  # Python preprocessing, analysis, and modelling scripts
-├── sql/                  # 3NF schema DDL, INSERT, filtering, and aggregation queries
-└── docs/                 # ERD diagrams and visualisations
+## Boxplot: age distribution across casualty severity categories
+
+<img width="852" height="731" alt="image" src="https://github.com/user-attachments/assets/9e1f0a65-9f5a-482a-ae25-30cdc4304a69" />
+
+
+## Proportional bar chart: injury severity proportion by transport type
+
+<img width="911" height="932" alt="image" src="https://github.com/user-attachments/assets/56421f79-3de2-4754-88bb-d37ce16c6300" />
+
+## Supervised decision tree model evaluation outputs, confusion matrix, and feature importance rankings of the road casualty dataset.
+<img width="905" height="1266" alt="image" src="https://github.com/user-attachments/assets/ee25fb7e-3222-4b14-9570-b7804235eb27" />
+
+
+
+## Road casualty statistics relational database schema in the form of entity relationship diagram (ERD) using Crow’s Foot style
+<img width="941" height="709" alt="image" src="https://github.com/user-attachments/assets/cafec9f9-f859-4cdf-970f-3f3532f11b0a" />
+
+
+
